@@ -1,7 +1,7 @@
 # Northy 🌊
 **Egypt Coastal Hotels Market Intelligence**
 
-🔗 **Live Website:** [[](https://northy-hotel-directo-4qul.bolt.host)]
+🔗 **Live Website:** [[https://northy-hotel-directo-4qul.bolt.host]]
 
 ## 📖 Overview
 Northy is a comprehensive market intelligence dashboard and data pipeline built to track and visualize hotel data across the North Coast of Egypt, Alexandria, and Marsa Matruh. The project aggregates listings from major booking platforms like Airbnb, Booking, and Hotels.com to provide insights into pricing trends, hotel ratings, and overall market composition.
