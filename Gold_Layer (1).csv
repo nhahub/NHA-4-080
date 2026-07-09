@@ -1,0 +1,5 @@
+destination,source_website,total_hotels,avg_price,avg_rating,sample_image
+"North Coast, Egypt",Airbnb,271,42832.6,8,https://a0.muscache.com/im/pictures/hosting/Hosting-1718004965605306572/original/9bfd407c-0380-4826-8850-8af51e2953d2.jpeg?im_w=720
+"North Coast, Egypt",Hotels.com,56,9382.29,8.23,https://images.trvl-media.com/lodging/110000000/109380000/109370500/109370437/2d779b55.jpg?impolicy=resizecrop&ra=fit&rw=455&rh=455
+"Marsa Matruh, Egypt",Booking,425,6106.45,8.21,null
+"Alexandria, Egypt",Booking,400,5935.82,8.35,null
