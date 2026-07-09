@@ -23,7 +23,22 @@ Northy is a comprehensive market intelligence dashboard and data pipeline built 
 ### 2. Front-End Dashboard
 * **`dashboard/Egypt_Hotels_PowerBI_Dashboard.html`**: The interactive user interface visualizing the processed data through scatter charts, bar charts, and KPI cards.
 
-## 🚀 How to Run Locally
-1. Clone this repository to your local machine using:
-   ```bash
-   git clone [https://github.com/esraamaaly11/NHA-4-080.git](https://github.com/esraamaaly11/NHA-4-080.git)
+## 🚀 How to Access the Dashboard
+You do not need to download or clone any files to explore the data! 
+
+Simply visit the live interactive dashboard here: **[Insert your website link here]**
+
+## 📊 Visuals & Screenshots
+
+* **Secondary Interface Overview:** ![Overview](images/Interface2.png)
+
+* **Filtered Hotels View:** ![Filtered Hotels](images/Filtered_hotels.png)
+
+* **Location Filters in Action:** ![Location Filters](images/Filters_according_to_locations.png)
+
+* **Source Filters in Action:** ![Source Filters](images/Filter_according_to_sources.png)
+
+## 🛠️ Built With
+* **Data Processing:** Python / Pandas
+* **Front-End:** HTML5, CSS3, JavaScript (Vanilla JS / Chart.js)
+* **Design System:** Fraunces & Inter fonts, FontAwesome icons
