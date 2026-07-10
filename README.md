@@ -26,7 +26,7 @@ Northy is a comprehensive market intelligence dashboard and data pipeline built 
 ## 🚀 How to Access the Dashboard
 You do not need to download or clone any files to explore the data! 
 
-Simply visit the live interactive dashboard here: **[Insert your website link here]**
+Simply visit the live interactive dashboard here: [https://northy-hotel-directo-4qul.bolt.host]
 
 ## 📊 Visuals & Screenshots
 
