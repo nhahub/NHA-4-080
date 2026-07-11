@@ -18,6 +18,8 @@ Northy is a comprehensive market intelligence dashboard and data pipeline built 
 * **Market Insights**: Real-time KPI tracking for Total Listings, Average Price per Night, Median Price, and Average Rating.
 
 ## 🔄 Workflow & Data Pipeline
+* **Engineering Flow** (images/flow.png)
+
 
 The project follows a structured methodology that begins with collecting raw listing data and ends with professional dashboard visualization. After the data is scraped, Databricks is used to execute ETL (Extract, Transform, Load) operations, organizing the data into a medallion architecture.
 
