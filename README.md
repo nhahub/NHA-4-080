@@ -47,6 +47,23 @@ You do not need to download or clone any files to explore the data!
 
 Simply visit the live interactive dashboard here: [https://northy-hotel-directo-4qul.bolt.host]
 
+## 📊 Visuals & Screenshots
+
+
+
+* **Secondary Interface Overview:** ![Overview](images/Interface2.png)
+
+
+
+* **Filtered Hotels View:** ![Filtered Hotels](images/Filtered_hotels.png)
+
+
+
+* **Location Filters in Action:** ![Location Filters](images/Filters_according_to_locations.png)
+
+
+
+* **Source Filters in Action:** ![Source Filters](images/Filter_according_to_sources.png)
 ## 🛠️ Built With
 
 * **Data Processing:** Python / Pandas / Databricks
